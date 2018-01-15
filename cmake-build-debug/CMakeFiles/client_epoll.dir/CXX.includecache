@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/oranngeoai/Documents/project/TCPsever_epoll/Client.cpp
+Client.h
+/home/oranngeoai/Documents/project/TCPsever_epoll/Client.h
+
+/home/oranngeoai/Documents/project/TCPsever_epoll/Client.h
+User.h
+/home/oranngeoai/Documents/project/TCPsever_epoll/User.h
+netdb.h
+-
+
+/home/oranngeoai/Documents/project/TCPsever_epoll/User.h
+unistd.h
+-
+sys/types.h
+-
+string
+-
+cstring
+-
+iostream
+-
+netinet/in.h
+-
+sys/socket.h
+-
+arpa/inet.h
+-
+cstdio
+-
+cstdlib
+-
+
+/home/oranngeoai/Documents/project/TCPsever_epoll/client_main.cpp
+Client.h
+/home/oranngeoai/Documents/project/TCPsever_epoll/Client.h
+sys/epoll.h
+-
+
